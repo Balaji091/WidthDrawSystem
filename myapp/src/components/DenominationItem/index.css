@@ -1,0 +1,16 @@
+/* Write your CSS here */
+button {
+    background-color: #322f68;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 16px;
+    width: 75px;
+  }
+  
+  button:hover {
+    background-color: #6a5acd;
+  }
