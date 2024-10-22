@@ -16,6 +16,7 @@ class CashWidthDrawl extends  Component {
         }
         else{
             this.setState({content:"Insufficient Funds"})
+            // modified
 
         }
         
